@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.ecom-h1 {
+    font-family: "Roboto";
+    font-size: 30px;
+    color: #323f4b;
+    font-weight: bold;
+}
+
+.smart-bg {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png");
+    height: 100vh;
+    background-size: cover;
+    border-radius: 25px;
+}
+
+.smart-h1 {
+    font-family: "Roboto";
+    font-size: 40px;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.samrt-p {
+    font-family: "Roboto";
+    font-size: 25px;
+    color: #ffffff;
+    font-weight: 100;
+}
+
+.smart-button {
+    height: 40px;
+    width: 120px;
+    color: #ff9f00;
+    background-color: white;
+    border-radius: 15px;
+    border-width: 0;
+}
+
+.sony-h {
+    font-family: "Roboto";
+    font-size: 30px;
+    color: #183b56;
+    font-weight: bold;
+}
+
+.modal-des {
+    font-family: "Roboto";
+    font-size: 25px;
+    color: #323f4b;
+    font-weight: 100;
+}
+
+.modal-des-span {
+    font-family: "Roboto";
+    font-size: 25px;
+    color: #183b56;
+    font-weight: bold;
+}
+
+.button-modal {
+    height: 36px;
+    width: 100px;
+    color: black;
+    background-color: white;
+    border-radius: 10px;
+    border-width: 2px;
+    border-style: solid;
+}
+
+.laptop-bg {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png");
+    height: 100vh;
+    background-size: cover;
+    border-radius: 25px;
+}
+
+.anc-text {
+    color: #ff9f00;
+    font-family: "Roboto";
+
+    font-size: 22px;
+    font-weight: bold;
+}
